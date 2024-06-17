@@ -7,6 +7,14 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=arpit-2727" alt="arpit-2727" /></a> </p>
 
+- 🔭 I’m currently working on **A Online Platform For Coding Competition And Practice.**
+
+- 🌱 I’m currently learning **Backend , Problem Solving.**
+
+- 👯 I’m looking to collaborate on **My Online Platform**
+
+- 🤝 I’m looking for help with **Backend Development**
+
 - 👨‍💻 All of my projects are available at [https://main--arpit-portfolio-site.netlify.app/](https://main--arpit-portfolio-site.netlify.app/)
 
 - 💬 Ask me about **C++ , Javascript , Data Structures , Tailwind CSS , ReactJs , MongoDB , NodeJs , ExpressJs , MySQL.**
